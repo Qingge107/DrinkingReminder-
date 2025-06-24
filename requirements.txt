@@ -1,0 +1,4 @@
+PyQt5>=5.15.0
+winotify>=0.1.0
+win10toast-click>=0.1.0
+pyinstaller>=5.0.0 
